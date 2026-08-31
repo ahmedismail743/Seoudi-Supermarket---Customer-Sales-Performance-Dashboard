@@ -46,6 +46,6 @@ Across the analyzed dataset, Seoudi Supermarket achieved:
 
 - 📊 Data Visualization: Custom KPI Cards, Segmented Bar Charts, Line Charts, and Stacked Distribution Views.
 
-  ![Dashboard Preview](ss1.png.png)
-  ![Dashboard Preview](ss2.png.png)
+  ![Dashboard Preview](ds1.png)
+  ![Dashboard Preview](ds2.png)
 
