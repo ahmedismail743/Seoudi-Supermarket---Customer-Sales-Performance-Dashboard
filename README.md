@@ -45,4 +45,7 @@ Across the analyzed dataset, Seoudi Supermarket achieved:
 - 🟢 Microsoft Excel: Data Cleaning, Power Query, Pivot Tables, Pivot Charts, and Dynamic UI/UX Navigation.
 
 - 📊 Data Visualization: Custom KPI Cards, Segmented Bar Charts, Line Charts, and Stacked Distribution Views.
-  
+
+  ![Dashboard Preview](Wss1.png.png)
+  ![Dashboard Preview](Wss2.png.png)
+
